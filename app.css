@@ -1,4 +1,10 @@
 header, footer{
   background-color: #5599FF;
   color: #FFF;
+  text-align: center;
+  padding: 10px;
+}
+aside{
+  text-align: center;
+  color: #5599FF;
 }
